@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;action.jsp, check.js, footer.jsp, header.jsp, index.jsp, join.jsp, style.css&apos; to &apos;webapp&apos;" description="Move 7 resources to &apos;webapp&apos;" destination="src/main/webapp" element1="src/main/webapp/WEB-INF/action.jsp" element2="src/main/webapp/WEB-INF/check.js" element3="src/main/webapp/WEB-INF/footer.jsp" element4="src/main/webapp/WEB-INF/header.jsp" element5="src/main/webapp/WEB-INF/index.jsp" element6="src/main/webapp/WEB-INF/join.jsp" element7="src/main/webapp/WEB-INF/style.css" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="7" stamp="1653444072651" updateReferences="true"/>
+</session>
